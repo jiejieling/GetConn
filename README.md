@@ -9,7 +9,7 @@ INSTALL
 
 UI
 --------------------------------------
-![GetConn](https://github.com/jiejieling/GetConn/ui.png "GetConn")
+![GetConn](https://github.com/jiejieling/GetConn/blob/master/ui.png "GetConn")
 
 
 Contact
